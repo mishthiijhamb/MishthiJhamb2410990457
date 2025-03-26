@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Features
+- Add tasks with due dates
+- Mark tasks as completed
+- Delete tasks
+- View pending tasks
+
+## Steps to Run the Project
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/your-username/todo-list.git
+   cd todo-list
+   ```
+
+2. **Install dependencies (if any)**
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+3. **Run the project**
+   ```sh
+   python main.py
+   ```
+
+## Contribution
+Feel free to fork the repository and submit pull requests with improvements!
