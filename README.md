@@ -1,4 +1,8 @@
-# To-Do List Application for Project Work
+<<<<<<< HEAD
+# To-Do List Application for Project 
+=======
+# To-Do List Application for Project
+>>>>>>> conflict
 A simple command-line to-do list application built using Python.
 
 ## Features
